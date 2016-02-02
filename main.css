@@ -1,0 +1,73 @@
+body {
+  background-color: #dcf3fe;
+}
+
+.cmb {
+  text-align: center;
+  font-size: 120px;
+  background-color: black;
+}
+
+.cmb ul {
+  list-style: none;
+  margin: 0;
+
+}
+
+.cmb ul li {
+  display: inline-block;
+  font-family: Oldtown, fantasy;
+}
+
+.word1 {
+  color: red;
+}
+
+.word2 {
+  color: yellow;
+}
+
+.word3 {
+  color: #5fb3fc;
+}
+
+.navbar {
+  list-style: none;
+}
+
+.bio {
+  padding: 3%;
+  margin-top: -100px
+}
+
+.bio h2 {
+  color: #bd9adf;
+  text-align: center;
+}
+
+.bio span{
+  font-size: 20px;
+  font-style: italic;
+  color: #ff8082
+}
+
+.navbar {
+  text-align: center;
+  font-size: 30px;
+  border-style: dotted;
+  border-color: red;
+  margin: 5%;
+}
+
+.navbar ul {
+  list-style: none;
+  color: #b18e77
+}
+
+.navbar li:hover {
+color: red;
+}
+
+.imageContainer {
+  text-align: center;
+}

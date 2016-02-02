@@ -1,0 +1,37 @@
+
+/* thanks to stackoverflow question answered by pixalass */
+/* This allows me to make the pic full-screen and transparent */
+.wrapper {
+    background-image: url("http://www.soulinstereo.com/wp-content/uploads/2014/05/young-gifted-and-badd.jpg");
+    opacity:0.4;
+    position:absolute;
+    top:0;
+    left:0;
+    height:100%;
+    width:100%;
+}
+
+#header{
+  text-align: center;
+  font-size: 40px;
+  font-family: Florence, cursive;
+  color: black;
+  font-weight: bold;
+}
+
+#songs {
+  padding: 1%;
+}
+
+#songs a li {
+  padding-top: 5%;
+}
+
+#songs ul{
+  list-style: none;
+}
+
+#songs {
+  font-size: 18px;
+  text-align: center;
+}
